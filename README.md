@@ -68,6 +68,19 @@ This example demonstrates the operation of the PSoC 6 MCU Serial Control Block (
 This example uses a PWM and PSoC 6 MCU Smart IO Component to implement a breathing LED, where an LED gradually cycles through increasing and decreasing brightness levels. There is no CPU usage except for the initialization of PWM and Smart IO Components. This example also demonstrates how to use Smart IO to route the same signal through multiple I/O pins on the same port. This is demonstrated by inverting the signal using Smart IO and then routing the signal to another pin thus creating two breathing LEDs that are out of phase.
 #### 2. CE219506 – PSoC 6 MCU Clock Buffer with Smart IO 
 This code example demonstrates how the lookup tables (LUTs) in the Smart IO block can be used to buffer an external signal. It further shows how to use the buffered signal to drive a high load at the output. The PSoC 6 MCU device is put to Deep Sleep mode.
+### TCPWM
+#### 1. CE220169 – PSoC 6 MCU: Periodic Interrupt using TCPWM
+This example demonstrates how to generate a periodic interrupt using the timer/counter pulse-width modulation (TCPWM) Component in Timer/Counter mode for PSoC 6 MCU devices.
+#### 2. CE220290 - PSoC 6 MCU TCPWM Breathing LED
+This code example demonstrates the implementation of an LED breathing effect using the TCPWM Component on a PSoC 6 MCU.
+#### 3. CE220291 - PSoC 6 MCU TCPWM Square Wave
+This code example demonstrates how to generate a square wave using the TCPWM Component on a PSoC 6 MCU.
+#### 4. CE220692 – PSoC 6 MCU: Frequenc Measurement Using TCPWM
+This code example demonstrates how to use the TCPWM Component in PSoC 6 MCU to measure the frequency of a periodic digital signal.
+#### 5. CE220799 – PSoC 6 MCU: Direction Detection Using Quadrature Decoder
+This code example demonstrates how to use the TCPWM Component in quadrature decoder mode in PSoC 6 MCU.
+#### 6. CE221118 – PSoC 6 MCU TCPWM Event Counter
+This example demonstrates the use of PSoC 6 MCU TCPWM to count the number of external events
 
 ## References
 #### 1. PSoC 6 MCU
