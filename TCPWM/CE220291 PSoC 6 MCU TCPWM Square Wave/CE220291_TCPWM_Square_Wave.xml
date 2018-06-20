@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220291_TCPWM_Square_Wave" WorkspaceName="CE220291.cywrk">
+  <Version>1.20</Version>
+  <Keyword>TCPWM_PWM_PDL</Keyword>
+  <Keyword>PWM</Keyword>
+  <Keyword>TCPWM</Keyword>
+  <Keyword>Square Wave</Keyword>
+  <Keyword>Blinking LED</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This code example demonstrates how to generate a square wave using the TCPWM Component on a PSoC 6 device.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE220291.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>
