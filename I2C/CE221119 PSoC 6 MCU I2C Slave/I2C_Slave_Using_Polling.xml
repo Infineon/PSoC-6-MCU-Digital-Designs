@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="I2C_Slave_Using_Polling" WorkspaceName="CE221119.cywrk">
+  <Version>1.0</Version>
+  <Keyword>I2C Slave</Keyword>
+  <Keyword>SCB_I2C_PDL</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This example project demonstrates the basic operation of the I2C slave (SCB mode) component using polling method. 
+  The I2C slave accepts the packet from master with a command to control the RGB LED color 
+  using PWM signals. The packet with a status is sent back to master.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE221119_PSoC6MCU_I2C_Slave.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>

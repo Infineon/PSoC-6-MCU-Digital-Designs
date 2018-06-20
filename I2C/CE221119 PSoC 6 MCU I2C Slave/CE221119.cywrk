@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="CE221119" persistent="CE221119.cywrk" platform="NOT_USED">
+<current_project name=".\I2C_Slave_Using_Callback.cydsn\I2C_Slave_Using_Callback.cyprj" />
+<wrkspc_folders />
+<files>
+<CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtFileSerialize" version="3" xml_contents_version="1">
+<CyGuid_31768f72-0253-412b-af77-e7dba74d1330 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtItemSerialize" version="2" name="CE221119_PSoC6MCU_I2C_Slave.pdf" persistent="CE221119_PSoC6MCU_I2C_Slave.pdf">
+<Hidden v="False" />
+</CyGuid_31768f72-0253-412b-af77-e7dba74d1330>
+<build_action v="OTHER;;;;" />
+<PropertyDeltas />
+</CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b>
+</files>
+<projects>
+<v>.\I2C_Slave_Using_Polling.cydsn\I2C_Slave_Using_Polling.cyprj</v>
+<v>.\I2C_Slave_Using_Callback.cydsn\I2C_Slave_Using_Callback.cyprj</v>
+</projects>
+<workspace_id v="e64a1268-52a2-4f56-a2d4-d6cc76042dd7" />
+<WriteAppVersionLastSavedWith v="4.2.0.393" />
+<WriteAppMarketingVersionLastSavedWith v="4.2" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>

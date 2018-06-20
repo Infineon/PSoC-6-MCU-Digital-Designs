@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220818_I2C_Master_High_Level" WorkspaceName="CE220818.cywrk">
+  <Version>1.0</Version>
+  <Keyword>I2C</Keyword>
+  <Keyword>SCB_I2C_PDL</Keyword>
+  <Keyword>Master</Keyword>
+  <Keyword>Slave</Keyword>
+  <Keyword>SCB_P6</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This example project demonstrates the basic operation of the I2C master (SCB mode)component using high level PDL function. The I2C master sends the packet with a command to the I2C slave to control the RGB LED color. The packet with a status is read back.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE220818.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>
