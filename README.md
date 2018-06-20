@@ -63,6 +63,11 @@ This code example demonstrates the implementation of an EZI2C Slave using the SC
 This example demonstrates the use of I2C SCB (Serial Control Block) Component for PSoC 6 MCU in master mode. Three different subprojects show the use of Peripheral Driver Library (PDL) functions to communicate with I2C and EzI2C slave.
 #### 3. CE221119 – PSoC 6 MCU I2C Slave
 This example demonstrates the operation of the PSoC 6 MCU Serial Control Block (SCB) in I2C Slave mode. Two projects show the use of Peripheral Driver Library (PDL) functions to receive data from an I2C Master in different modes.
+### Smart IO
+#### 1. CE219490 – PSoC 6 MCU Breathing LED using Smart IO 
+This example uses a PWM and PSoC 6 MCU Smart IO Component to implement a breathing LED, where an LED gradually cycles through increasing and decreasing brightness levels. There is no CPU usage except for the initialization of PWM and Smart IO Components. This example also demonstrates how to use Smart IO to route the same signal through multiple I/O pins on the same port. This is demonstrated by inverting the signal using Smart IO and then routing the signal to another pin thus creating two breathing LEDs that are out of phase.
+#### 2. CE219506 – PSoC 6 MCU Clock Buffer with Smart IO 
+This code example demonstrates how the lookup tables (LUTs) in the Smart IO block can be used to buffer an external signal. It further shows how to use the buffered signal to drive a high load at the output. The PSoC 6 MCU device is put to Deep Sleep mode.
 
 ## References
 #### 1. PSoC 6 MCU
