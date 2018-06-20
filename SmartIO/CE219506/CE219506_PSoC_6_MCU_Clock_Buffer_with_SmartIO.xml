@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<Project Name="CE219506_PSoC_6_MCU_Clock_Buffer_with_SmartIO" WorkspaceName="CE219506.cywrk">
+	<Version>1.10</Version>
+	<Keyword>MCWDT</Keyword> 
+	<Keyword>GlobalSignal</Keyword> 
+	<Keyword>SmartIO</Keyword> 
+	<Keyword>Clock Buffer</Keyword> 
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This code example demonstrates how the lookup tables (LUTs) in Smart IO block 
+	can be used to buffer an external signal. It further shows how to use the buffered signal to	
+	drive a high load at the output. The PSoC 6 MCU device is put to deep-sleep mode.</Description>
+	<DeviceFilter>PSoC 60</DeviceFilter>
+	<DeviceFilter>PSoC 61</DeviceFilter>
+	<DeviceFilter>PSoC 62</DeviceFilter>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE219506.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

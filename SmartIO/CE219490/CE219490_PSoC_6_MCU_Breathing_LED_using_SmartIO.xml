@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <Project Name="CE219490_PSoC_6_MCU_Breathing_LED_using_SmartIO" WorkspaceName="CE219490.cywrk">
+	<Version>1.10</Version>
+	<Keyword>TCPWM</Keyword> 
+	<Keyword>SmartIO</Keyword> 
+	<Keyword>Breathing LED</Keyword> 
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This example demonstrates the flexibility of PSoC 6 Smart IO, 
+	by implementing LED breathing effect exclusively in hardware, with no CPU 
+	usage beyond initialization.</Description>
+	<DeviceFilter>PSoC 60</DeviceFilter>
+	<DeviceFilter>PSoC 61</DeviceFilter>
+	<DeviceFilter>PSoC 62</DeviceFilter>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE219490.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>
