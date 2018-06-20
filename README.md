@@ -44,8 +44,13 @@ To use the code examples in this repository, please download and install
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
 ## Code Example List
+### UART
 #### 1. CE219656 - PSoC 6 MCU UART using Low Level APIs
 This example demonstrates the UART transmit and receive operation in PSoC 6 MCU using low level APIs. This is done using polling, ISR, and DMA methods.
+#### 2. CE221117 - PSoC 6 MCU UART using High Level APIs
+This example demonstrates the serial communication block (SCB) based UART transmit and receive operation in PSoC® 6 MCU using high level APIs found in peripheral driver library (PDL).
+#### 3. CE223001 - PSoC 6 MCU UART printf
+This example demonstrates how to use the printf function with a Serial Communication Block (SCB) based UART in PSoC 6 MCU.
 
 ## References
 #### 1. PSoC 6 MCU
