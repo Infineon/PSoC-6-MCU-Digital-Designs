@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220799_Direction_Detection_Quadrature_Decoder" WorkspaceName="CE220799.cywrk">
+	<Version>1.0</Version>
+	<Keyword>TCPWM</Keyword> 
+	<Keyword>Quadrature Decoder</Keyword>
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This code example demonstrates how to use the TCPWM Component in quadrature decoder mode in PSoC® 6 MCU.</Description>
+	<DeviceFilter>PSoC 60</DeviceFilter>
+	<DeviceFilter>PSoC 61</DeviceFilter>
+	<DeviceFilter>PSoC 62</DeviceFilter>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE220799.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220692_Frequency_Measurement_TCPWM" WorkspaceName="CE220692.cywrk">
+	<Version>1.0</Version>
+	<Keyword>TCPWM</Keyword> 
+	<Keyword>Frequency Measurement</Keyword>
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This code example demonstrates how to use the TCPWM Component in PSoC 6 MCU to measure the frequency of a periodic digital signal.</Description>
+	<DeviceFilter>PSoC 60</DeviceFilter>
+	<DeviceFilter>PSoC 61</DeviceFilter>
+	<DeviceFilter>PSoC 62</DeviceFilter>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE220692.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

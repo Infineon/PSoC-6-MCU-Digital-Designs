@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220290_TCPWM_Breathing" WorkspaceName="CE220290.cywrk">
+  <Version>1.20</Version>
+  <Keyword>TCPWM_PWM_PDL</Keyword>
+  <Keyword>PWM</Keyword>
+  <Keyword>TCPWM</Keyword>
+  <Keyword>Breathing LED</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This code example demonstrates the implementation of an LED breathing effect using the TCPWM Component on a PSoC 6 device.</Description>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE220290.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>

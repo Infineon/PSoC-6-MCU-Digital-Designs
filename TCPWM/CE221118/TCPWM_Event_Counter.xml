@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="TCPWM_Event_Counter" WorkspaceName="CE221118.cywrk">
+  <Version>1.0</Version>
+  <Keyword>TCPWM</Keyword>
+  <Keyword>Timer</Keyword>
+  <Keyword>counter</Keyword>
+  <Keyword>TCPWM_Counter_PDL</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>The example shows how to use the TCPWM to count a number of external events and displays the results over UART.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE221118_PSoC6MCU_TCPWMEventCounter.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>
