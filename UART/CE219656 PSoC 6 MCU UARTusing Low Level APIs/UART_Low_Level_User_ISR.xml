@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="UART_Low_Level_User_ISR" WorkspaceName="CE219656.cywrk">
+  <Version>1.20</Version>
+  <Keyword>UART</Keyword>
+  <Keyword>SCB_UART_PDL</Keyword>
+  <Keyword>Interrupt</Keyword>
+  <Keyword>ISR</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This example demonstrates the UART transmit and receive operation using user ISR.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE219656_PSoC6MCU_UARTusingLowLevelAPIs.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>
