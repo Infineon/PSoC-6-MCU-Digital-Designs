@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="High_Level_SPI_Master" WorkspaceName="CE221120.cywrk">
+  <Version>1.0</Version>
+  <Keyword>SPI MASTER</Keyword>
+  <Keyword>SCB_SPI_PDL</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This example project demonstrates the basic operation of the SPI (SCB mode)component using high level PDL function. The SPI master sends the packet with a command to the SPI slave to control the RGB LED color. The packet with a status is read back.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE221120_PSoC6MCU_SPI_Master.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>

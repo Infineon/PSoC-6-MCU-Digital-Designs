@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Low_Level_Polling_SPI_Slave" WorkspaceName="CE221121.cywrk">
+  <Version>1.0</Version>
+  <Keyword>SPI SLAVE</Keyword>
+  <Keyword>SCB_SPI_PDL</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This example project demonstrates the basic operation of the SPI slave (SCB mode)component using low level PDL function in polling method. The SPI master sends the packet with a command to the SPI slave to control the RGB LED color. The packet with a status is read by master.</Description>
+  <DeviceFilter>PSoC 60</DeviceFilter>
+  <DeviceFilter>PSoC 61</DeviceFilter>
+  <DeviceFilter>PSoC 62</DeviceFilter>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE221121_PSoC6MCU_SPI_Slave.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>
