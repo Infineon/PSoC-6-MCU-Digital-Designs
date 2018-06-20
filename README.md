@@ -51,6 +51,18 @@ This example demonstrates the UART transmit and receive operation in PSoC 6 MCU 
 This example demonstrates the serial communication block (SCB) based UART transmit and receive operation in PSoC® 6 MCU using high level APIs found in peripheral driver library (PDL).
 #### 3. CE223001 - PSoC 6 MCU UART printf
 This example demonstrates how to use the printf function with a Serial Communication Block (SCB) based UART in PSoC 6 MCU.
+### SPI
+#### 1. CE221120 - PSoC 6 MCU SPI Master
+This example demonstrates the use of SPI SCB (Serial Communication Block) Component for PSoC 6 MCU in master mode. Four different subprojects show the use of Peripheral Driver Library (PDL) functions to communicate with an SPI slave.
+#### 2. CE221121 - PSoC 6 MCU SPI Slave
+This example demonstrates the use of PSoC 6 MCU Serial Communication Block (SCB) Component in SPI slave mode. Four projects show the use of Peripheral Driver Library (PDL) functions to receive data from an SPI master in different modes.
+#### I2C
+#### 1. CE220541 - PSoC 6 MCU SCB EZI2C
+This code example demonstrates the implementation of an EZI2C Slave using the SCB Component on a PSoC 6 MCU. It also demonstrates how to control the color and intensity of an RGB LED using TCPWM Components.
+#### 2. CE220818 - PSoC 6 MCU I2C Master
+This example demonstrates the use of I2C SCB (Serial Control Block) Component for PSoC 6 MCU in master mode. Three different subprojects show the use of Peripheral Driver Library (PDL) functions to communicate with I2C and EzI2C slave.
+#### 3. CE221119 – PSoC 6 MCU I2C Slave
+This example demonstrates the operation of the PSoC 6 MCU Serial Control Block (SCB) in I2C Slave mode. Two projects show the use of Peripheral Driver Library (PDL) functions to receive data from an I2C Master in different modes.
 
 ## References
 #### 1. PSoC 6 MCU
