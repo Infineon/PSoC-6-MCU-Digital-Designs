@@ -43,7 +43,7 @@ To use the code examples in this repository, please download and install
 
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
-## Code Example List
+## Code Examples List
 ### UART
 #### 1. CE219656 - PSoC 6 MCU UART using Low Level APIs
 This example demonstrates the UART transmit and receive operation in PSoC 6 MCU using low level APIs. This is done using polling, ISR, and DMA methods.
